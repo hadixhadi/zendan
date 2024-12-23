@@ -1,0 +1,4 @@
+librouteros==3.4.1
+pygame==2.6.1
+RouterOS-api==0.18.1
+toml==0.10.2
